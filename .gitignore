@@ -1,0 +1,13 @@
+# Compiled Object Files
+*.o
+*.obj
+*.a
+*.s
+
+# Executable Files
+*.exe
+*.out
+
+# IDE and Editor Files
+.vscode/
+.vs/
