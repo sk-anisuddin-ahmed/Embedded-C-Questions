@@ -14,14 +14,6 @@ all: $(TARGET)
 $(TARGET): $(SRCS) list.h
 	$(CC) $(CFLAGS) $(SRCS) -o $(TARGET)
 
-# Debug build: include debug symbols and disable optimizations
-debug: $(SRCS) list.h
-	$(CC) $(CFLAGS) $(DBGFLAGS) $(SRCS) -o debug
-
-# Run debug binary
-run-debug: debug
-	./debug
-
 # Run program
 run: $(TARGET)
 	./$(TARGET)
