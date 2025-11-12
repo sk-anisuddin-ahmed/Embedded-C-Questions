@@ -1,4 +1,4 @@
-# Embedded C Programming Solutions
+# Embedded C/C++ Programming Solutions
 
 This repository contains comprehensive solutions for Embedded C programming concepts and problems.
 
@@ -16,4 +16,3 @@ This repository contains comprehensive solutions for Embedded C programming conc
 - **10 - Dynamic Memory Allocations** - Memory management techniques
 - **11 - Single Linked Lists** - Linked list implementations
 - **12 - File Handling in C** - File I/O operations
-- **13 - Addon Concepts** - Additional C programming concepts
